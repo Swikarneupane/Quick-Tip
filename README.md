@@ -1,4 +1,6 @@
 # Quick-Tip
 
 Quickly calulate tip.
-Live Link: 
+
+
+Live Link: https://quick-tip1.netlify.app/
